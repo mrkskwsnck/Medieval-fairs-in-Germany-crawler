@@ -1,6 +1,10 @@
 # Medieval fairs in Germany crawler
 
-Crawling dates of medieval fairs in Germany (from [Marktkalendarium](http://www.marktkalendarium.de/)) for database storage.
+Crawling event dates of medieval fairs in Germany (from Marktkalendarium) for database storage
+
+## Description
+
+The goal of the present project is to download, parse and store event dates provided by [Marktkalendarium](http://www.marktkalendarium.de/) for later usage.
 
 ## Crwaling raw data for testing purpose
 
