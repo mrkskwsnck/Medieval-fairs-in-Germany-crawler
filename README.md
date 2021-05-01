@@ -31,3 +31,11 @@ do
     "http://www.marktkalendarium.de/maerkte${YEAR}.php?datenbereich=alle";
 done
 ```
+
+## Prerequisites
+
+For Python 3
+
+```bash
+pip3 install --requirement requirements.txt
+```
